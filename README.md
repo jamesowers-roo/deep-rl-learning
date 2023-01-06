@@ -10,3 +10,6 @@ export GRPC_PYTHON_BUILD_SYSTEM_ZLIB=1
 poetry install
 pre-commit install --install-hooks
 ```
+
+# Notes
+- programmatica access to huggingface api: https://huggingface.co/welcome
